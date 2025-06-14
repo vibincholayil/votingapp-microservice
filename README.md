@@ -11,6 +11,8 @@ link: https://github.com/dockersamples/example-voting-app
 -   In-memory data store using Redis 
 -   PostgreSQL database  
 
+![project](https://github.com/vibincholayil/votingapp-microservice/blob/master/images/Design1.png)  
+
 With the code provided by the Docker team, the Dockerfile and Kubernetes deployment file were already included in their GitHub repository. So, I started my work from there. I have understood the code structure and completed all the following steps, including handling the ERROR:  
 
 # CI using Azure DevOps
